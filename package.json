@@ -1,0 +1,11 @@
+{
+  "name": "wannacry-simulator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Controlled defensive WannaCry simulator repository tooling.",
+  "scripts": {
+    "commit:atomic": "node scripts/atomic-commits.mjs",
+    "commit:atomic:auto": "node scripts/atomic-commits.mjs --yes",
+    "commit:atomic:dry": "node scripts/atomic-commits.mjs --dry-run"
+  }
+}
