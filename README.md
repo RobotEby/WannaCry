@@ -1,7 +1,5 @@
 # WannaCry
 
-![Screenshot](https://user-images.githubusercontent.com/46400438/185957528-206dfb47-1397-40bf-ac7b-5686fb693835.gif)
-
 ### Features:
 
 1. Change the desktop background
@@ -37,8 +35,6 @@ Place `WannaCry.exe` in an appropriate directory and double-click to run it. You
 <br>
 
 # Anti_WannaCry
-
-![WeChat Screenshot_20220823213056](https://user-images.githubusercontent.com/46400438/186171652-be3a0f0d-7bc9-41a4-9c48-0ac8a809415e.png)
 
 ### Description:
 
